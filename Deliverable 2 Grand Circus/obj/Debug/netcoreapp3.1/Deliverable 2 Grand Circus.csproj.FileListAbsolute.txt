@@ -1,0 +1,14 @@
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.exe
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.deps.json
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.runtimeconfig.json
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.dll
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\bin\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.pdb
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.AssemblyInfo.cs
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.dll
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.pdb
+C:\Users\Adam\source\repos\Deliverable 2 Grand Circus\Deliverable 2 Grand Circus\obj\Debug\netcoreapp3.1\Deliverable 2 Grand Circus.genruntimeconfig.cache
